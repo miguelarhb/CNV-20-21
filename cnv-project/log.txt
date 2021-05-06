@@ -1,0 +1,20 @@
+Thread #14:
+>322865039 instructions
+>116177939 basic blocks
+>1099996 methods
+Thread #12:
+>927042215 instructions
+>337457864 basic blocks
+>3626740 methods
+Thread #12:
+>935087637 instructions
+>340177939 basic blocks
+>3659904 methods
+Thread #12:
+>946777006 instructions
+>344417408 basic blocks
+>3706038 methods
+Thread #12:
+>959865039 instructions
+>348177939 basic blocks
+>3759996 methods
